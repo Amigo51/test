@@ -1,1 +1,2 @@
 day 2 of gi tutorials
+how to skip the stagging area in git
